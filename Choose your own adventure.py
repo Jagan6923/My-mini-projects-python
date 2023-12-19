@@ -28,3 +28,4 @@ elif answer.lower()== "right":
     print("Not a valid option.you lose")
 
 print("Thanks for playing..",name)
+print("Byeeeee....")
